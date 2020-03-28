@@ -1,0 +1,6 @@
+package entities;
+
+public enum Category {
+
+    FOOD, RESTAURANTS, BEAUTY, SPA, VACATION, SHOPPING, CULTURE, HEALTH, ELECTRONICS, LIFESTYLE, SPORT
+}
